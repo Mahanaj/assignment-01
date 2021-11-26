@@ -1,0 +1,22 @@
+
+.tittle{
+	color : #1e266d;
+	 font-size: 40px;
+	}
+	.paragraph{
+		font-size:30px;
+		color:pink;
+	}
+
+	.btn{
+		font-size:15px;
+		background-color: #2e367d;
+		color: black;
+		width: 156px;
+		height: 40px;
+		border-radius: 7px;
+	}
+	.pra{
+		color:purple;
+		width: 120px;
+	}
